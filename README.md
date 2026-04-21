@@ -1,18 +1,77 @@
-### Prazer 🖐️, em conhecer vcs eu sou Aluno da faculdade Marucio de nassau 🏫💻
-Me chamo Augusto César e estou cursando o 2 semestre do curso de Análise e
-Desenvolvimento de Sistemas. Sou uma pessoa motivada e entusiasmada, apaixonado por
-entrar no mundo profissional por meio de uma oportunidade de estágio. Aos 20 anos, estou
-ansioso para iniciar minha carreira em Análise e Desenvolvimento de Sistemas 👾
+<h1 align="left">👋 Fala aí! Eu sou o Augusto Cesar</h1>
 
-![ Augusto Cesar  GitHub stats](https://github-readme-stats.vercel.app/api?username=Augustocesar188&show_icons=true&theme=transparent)
+###
 
-### tecnologias Usadas no meu dia
-[![ladding page](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://https://www.figma.com/file/LRdXSpUSZry5BJdw56jwyi/Box-237?type=design&node-id=0-1&mode=design&t=O540eDuzfbWIZwvg-0)
-[![portfolio](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://https://www.figma.com/file/LRdXSpUSZry5BJdw56jwyi/Box-237?type=design&node-id=0-1&mode=design&t=O540eDuzfbWIZwvg-0)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
-[![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
-[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
-[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)]()
-[![Angular](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
+<p align="left">um desenvolvedor focado em dados, direto de Recife, Brasil 🚀</p>
 
+###
+
+<h2 align="left">💡 Sobre mim</h2>
+
+###
+
+<p align="left">Sou um desenvolvedor com perfil analítico, focado em transformar problemas complexos em soluções eficientes e bem estruturadas. Antes de codar, gosto de entender a fundo o problema — porque acredito que a melhor solução começa com uma boa análise.<br><br>Tenho forte interesse em dados e tecnologia, buscando sempre transformar informações em insights claros e úteis para a tomada de decisão. Trabalho com desenvolvimento backend, bancos de dados e criação de dashboards, unindo lógica, performance e organização.</p>
+
+###
+
+<div align="center">
+  <a href="www.linkedin.com/in/augusto-cesar-de-andrade-araujo-dos-santos-377757253" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<h2 align="center">💻 Tecnologias e IDES</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+</div>
+
+###
+
+<h2 align="center">🖌 UX/UI</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" height="40" alt="sketch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="40" alt="behance logo"  />
+</div>
+
+###
+
+<h2 align="center">📖Organizaçao</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
+</div>
+
+###
